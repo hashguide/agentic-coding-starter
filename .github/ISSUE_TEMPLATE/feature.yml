@@ -1,0 +1,17 @@
+name: Scaffold improvement
+description: Propose an improvement to routing, guidance, templates, tooling, or agent workflow
+title: "[Improvement] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What agent or contributor problem should the scaffold solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true

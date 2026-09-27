@@ -1,0 +1,5 @@
+---
+description: Agentic product scaffold operating rules
+alwaysApply: true
+---
+Read `AGENTS.md` and `.docs/START.md`. Route context through `.docs/ROUTING.md`; do not load the full playbook. Treat project/feature/decision docs as project truth and playbook docs as decision guidance. Refine incomplete requirements and keep specifications synchronized with implementation.

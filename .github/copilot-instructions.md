@@ -1,0 +1,1 @@
+Read `/AGENTS.md` and `/.docs/START.md` before substantial changes. Use `/.docs/ROUTING.md` to select context. Project and feature specifications are authoritative; `/.docs/playbook/` provides reusable decision guidance. Update project truth when behavior or architecture changes.
